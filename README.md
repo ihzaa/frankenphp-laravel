@@ -1,10 +1,12 @@
 (https://youtu.be/A79c5jwc4U0)
 
+# Bahasan
 
-[Y] WORKER MODE dengan Laravel Octane
-[Y] PENGATURAN PORT
-[Y] MULTI SITE/DOMAIN
+1. WORKER MODE dengan Laravel Octane
+2. PENGATURAN PORT
+3. MULTI SITE/DOMAIN
 
+# Langkah-langkah
 
 1. Create VM-Multipass
    multipass launch -n franken -c 3 -m 3G -d 32G
