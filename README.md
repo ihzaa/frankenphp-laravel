@@ -1,4 +1,4 @@
-[![FrankenPHP Worker Mode](https://youtu.be/A79c5jwc4U0/0.jpg)](https://youtu.be/A79c5jwc4U0)
+[![FrankenPHP Worker Mode](https://img.youtube.com/vi/A79c5jwc4U0/0.jpg)](https://www.youtube.com/watch?v=A79c5jwc4U0)
 
 # Bahasan
 
