@@ -38,7 +38,8 @@
 
 3. Install php
    ```
-   sudo apt install php php-mbstring php-dom php-tokenizer php-readline php-sqlite3 php-curl php-gd php-zip php-bcmath mysql-server -y
+   sudo apt install php php-mbstring php-dom php-tokenizer php-readline php-sqlite3 php-curl php-gd php-zip php-bcmath mysql-server nodejs npm -y
+   sudo npm install -g chokidar-cli
    ```
 
 4. Install composer https://getcomposer.org/download/
