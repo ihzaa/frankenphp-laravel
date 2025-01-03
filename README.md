@@ -38,7 +38,7 @@
 
 3. Install php
    ```
-   sudo apt install php php-mbstring php-dom php-tokenizer php-readline php-sqlite3 php-curl -y
+   sudo apt install php php-mbstring php-dom php-tokenizer php-readline php-sqlite3 php-curl php-gd php-zip php-bcmath mysql-server -y
    ```
 
 4. Install composer https://getcomposer.org/download/
